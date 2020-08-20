@@ -1,0 +1,4 @@
+Nosso sistema de avaliação automática irá calcular métricas de acurácia e pontuar sua solução de acordo com a qualidade 
+do modelo submetido. Sua solução deve obrigatoriamente estar hospedada no Watson Machine Learning, e o arquivo .zip
+ enviado deve conter todos os notebooks com código editado e/ou criado pelo participante, conforme claramente explicado 
+ no vídeo e nas imagens acima.
